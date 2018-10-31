@@ -22,8 +22,9 @@ GameObject:
   - component: {fileID: 212944162994972818}
   - component: {fileID: 50819434322167088}
   - component: {fileID: 58696499206896528}
+  - component: {fileID: 114284032585760696}
   m_Layer: 0
-  m_Name: Bullet(Nail)
+  m_Name: Bullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -56,7 +57,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -77,6 +78,20 @@ CircleCollider2D:
   m_Offset: {x: -0.036074087, y: 0.007215053}
   serializedVersion: 2
   m_Radius: 0.18885902
+--- !u!114 &114284032585760696
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1207771279767430}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59d4a54b59670a148bbf4143bfff7f94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 20
+  damage: 40
+  rb: {fileID: 50819434322167088}
 --- !u!212 &212944162994972818
 SpriteRenderer:
   m_ObjectHideFlags: 1
