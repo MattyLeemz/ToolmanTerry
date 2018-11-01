@@ -20,7 +20,27 @@ public class Bullet : MonoBehaviour {
             enemy.TakeDamage(damage);
             Destroy(gameObject);
         }
-        
+
+        Enemy2 enemy2 = hitInfo.GetComponent<Enemy2>();
+        if (enemy2 != null)
+        {
+            enemy2.TakeDamage(damage);
+            Destroy(gameObject);
+        }
+
+        Enemy3 enemy3 = hitInfo.GetComponent<Enemy3>();
+        if (enemy3 != null)
+        {
+            enemy3.TakeDamage(damage);
+            Destroy(gameObject);
+        }
+
+        Enemy4 enemy4 = hitInfo.GetComponent<Enemy4>();
+        if (enemy4 != null)
+        {
+            enemy4.TakeDamage(damage);
+            Destroy(gameObject);
+        }
     }
 
 }
