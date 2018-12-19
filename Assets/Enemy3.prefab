@@ -64,7 +64,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1541089127121724}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.9, y: 4.2, z: 0.27148438}
+  m_LocalPosition: {x: -6.3326154, y: 2.347515, z: 0.27148438}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4032036949269310}
@@ -110,7 +110,8 @@ MonoBehaviour:
   health: 50
   enemyBullet: {fileID: 1193050357538870, guid: 41dac2dd58fb14c489bcc7667b07dba6,
     type: 2}
-  deathEffect: {fileID: 0}
+  deathEffect: {fileID: 1490162481047258, guid: c528807de62ea81489bb0fce1a0f3ac3,
+    type: 2}
 --- !u!212 &212324652113473660
 SpriteRenderer:
   m_ObjectHideFlags: 1
