@@ -12,42 +12,90 @@ EditorBuildSettings:
     path: Assets/Scenes/Cutscene1.unity
     guid: 241faabcd5d56d045bc1dcaabec10c10
   - enabled: 1
-    path: Assets/Scenes/Level1.unity
+    path: Assets/Scenes/OvermapLevel1.unity
+    guid: 216061aa551cb904d86770b359f85327
+  - enabled: 1
+    path: Assets/Scenes/Level1Final.unity
     guid: 3f91d5b6023794e4382c0f991a3164be
   - enabled: 1
     path: Assets/Scenes/Cutscene2.unity
     guid: 9b2e82e76a3f7fa4cbaa608458b5ccc9
   - enabled: 1
-    path: Assets/Scenes/Level2.unity
+    path: Assets/Scenes/OvermapLevel2.unity
+    guid: 8de7a6900d9f40b408ba5936efe8f845
+  - enabled: 1
+    path: Assets/Scenes/Level2Final.unity
     guid: e27a9722b53fc0041a05cb96d1ffb192
   - enabled: 1
-    path: Assets/Scenes/Level3.unity
+    path: Assets/Scenes/OvermapLevel3.unity
+    guid: 30130779a9d63ab4586db2d9ed177ada
+  - enabled: 1
+    path: Assets/Scenes/Level3Final.unity
     guid: b51e2e3916219b44081bf16e985cc94a
   - enabled: 1
     path: Assets/Scenes/Cutscene3.unity
     guid: f7b4a5c5c93796342a10eda8e403ba18
   - enabled: 1
-    path: Assets/Scenes/Level4.unity
-    guid: 61785bfec30c95d4db42b550d3d4abaa
+    path: Assets/Scenes/OvermapLevel4.unity
+    guid: 15702df7b6684a346bc14f0acdb544df
   - enabled: 1
-    path: Assets/Scenes/Level5.unity
+    path: Assets/Scenes/Level4Final.unity
     guid: 6265d6244727dad4a8a37621e0995721
   - enabled: 1
-    path: Assets/Scenes/Level6.unity
+    path: Assets/Scenes/OvermapLevel5.unity
+    guid: 7148a3e218803cf428ce7984a2f956a2
+  - enabled: 1
+    path: Assets/Scenes/Level5Final.unity
     guid: 67087d90610e7464195b3bdf65db433b
   - enabled: 1
-    path: Assets/Scenes/Level7.unity
+    path: Assets/Scenes/OvermapLevel6.unity
+    guid: 031f04a777056c842b9af9639987122c
+  - enabled: 1
+    path: Assets/Scenes/Level6Final.unity
+    guid: 8d8b428861ef27a41bd623daafadc004
+  - enabled: 1
+    path: Assets/Scenes/OvermapLevel7.unity
+    guid: a08b5250b07e5a84aaf2abaf280e6c05
+  - enabled: 1
+    path: Assets/Scenes/Level7Final.unity
+    guid: 3e5da10a00a77d24b8f1d96440e30f1f
+  - enabled: 1
+    path: Assets/Scenes/OvermapLevel8.unity
+    guid: bedab0623b6021b48a80629a0733382d
+  - enabled: 1
+    path: Assets/Scenes/Level8Final.unity
+    guid: 31a2856a1a5e65048b059032ebada97e
+  - enabled: 1
+    path: Assets/Scenes/OvermapLevel9.unity
+    guid: f696678b2a2902d45a866671c417426d
+  - enabled: 1
+    path: Assets/Scenes/Level9Final.unity
     guid: 31d258b3939226d47a438be27bdc66f2
   - enabled: 1
-    path: Assets/Scenes/Level8.unity
-    guid: d1f8be5d91e1f4144abfdf2a39cee96d
+    path: Assets/Scenes/OvermapLevel10.unity
+    guid: 273885c494f2a62408c9b64a7513fdbf
   - enabled: 1
-    path: Assets/Scenes/Level9.unity
+    path: Assets/Scenes/Level10Final.unity
     guid: 2e95c090b97a86644a780c111d1a9de4
-  - enabled: 1
-    path: Assets/Scenes/Level10.unity
-    guid: 9f8959fe2d560094c8283ec2910eceda
   - enabled: 1
     path: Assets/Scenes/WinScene.unity
     guid: 91453ec69834afd4785d2510295559c8
+  - enabled: 1
+    path: Assets/Scenes/SecretLevel1Final.unity
+    guid: 5b7225bd049a5c4429c9ac2bea08d8b4
+  - enabled: 1
+    path: Assets/Scenes/SecretLevel2Final.unity
+    guid: b1413f4f152fef8438fa9ceaef77559e
+  - enabled: 1
+    path: Assets/Scenes/SecretLevel3Final.unity
+    guid: 61f3e2355f50e2643b1808dfc9790e79
+  - enabled: 1
+    path: Assets/Scenes/SecretLevel4Final.unity
+    guid: d1f8be5d91e1f4144abfdf2a39cee96d
+  - enabled: 1
+    path: Assets/Scenes/SecretLevel5Final.unity
+    guid: 9f8959fe2d560094c8283ec2910eceda
+  - enabled: 1
+    path: Assets/Scenes/FinaleScene.unity
+    guid: 8946d0e37bdb3614ca6fc2a027b4f58c
   m_configObjects: {}
